@@ -1,0 +1,12 @@
+baseurl = "http://www.gitbus.io"
+title = "Eria"
+author = "Eria"
+copyright = "Copyright (c) 20015 - 2016, Acrade; all rights reserved."
+canonifyurls = true
+paginate = 3
+theme = "hugo-uno"
+
+[params]
+    name = "Eria"
+    description = "This is a test static html website for Eria."
+    github = "liberia"
